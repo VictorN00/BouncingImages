@@ -1,2 +1,2 @@
-# BouncingImages
+# Bouncing Images
 bouncing images
